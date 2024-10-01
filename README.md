@@ -7,6 +7,6 @@ Fique a vontade para acompanhar minha trajetória vendo meus projetos e atividad
 
 ## 💻Se interessou? Me conheça mais!
 
-- [LinkedIn] (www.linkedin.com/in/flaviamendes17)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/flaviamendes17)
 - Email Profissonal: flavia.r.mendes@aluno.senai.br
 - [Instagram] (https://www.instagram.com/flaviaramendes?igsh=MWE2ZWJyMWcwbnVvOQ==)
