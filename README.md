@@ -12,9 +12,6 @@ Fique a vontade para acompanhar minha trajetória vendo meus projetos e atividad
   <a href="https://www.instagram.com/flaviaramendes?igsh=em0wd2xkeTh6eDJp" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="..adam._" height="30" width="40" /></a>
-  <a href="https://github.com/flaviamendes17"><img align="center"
-      src="https://hrcdn.net/fcore/assets/github-colored-1db995054b.svg"
-      alt="adampithewan" height="30" width="40" /></a>
       
 ## Estatísticas do GitHub
 
