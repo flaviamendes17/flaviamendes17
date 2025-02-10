@@ -22,8 +22,6 @@ Fique a vontade para acompanhar minha trajetória vendo meus projetos e atividad
 
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamendes17&theme=omni&show_icons=true&hide_border=false&layout=compact) 
 
-## Streak de Contribuições
 
-![Streak de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=flaviamendes17&theme=omni&hide_border=false)
 
 </div>
