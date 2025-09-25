@@ -23,8 +23,4 @@ Fique a vontade para acompanhar minha trajetória vendo meus projetos e atividad
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamendes17&theme=omni&show_icons=true&hide_border=false&layout=compact) 
 
   Obrigada por acessar meu perfil! 💌
-<br>
-  <br>
-  <img src="https://profile-counter.glitch.me/flaviamendes17/count.svg?" />
 
-</div>
